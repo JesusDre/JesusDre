@@ -60,6 +60,8 @@ I deploy and manage services using Docker and Dokploy on a Linux VPS, gaining pr
 **Tools**
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
@@ -75,8 +77,9 @@ I deploy and manage services using Docker and Dokploy on a Linux VPS, gaining pr
 
 | Project | Description | Stack |
 |---|---|---|
-| **GeniDocs* | Developed a document management system for generating, organizing, and accessing digital documents. Built a REST API for document workflows and PDF generation. | Java · Spring Boot · MySQL · GitHub|
-| **VASO* |Built a backend system for managing multimedia content (images and audio) for visual novels, including secure authentication and structured data modeling.| Python · Django · JWT · MySQL|
+| **GeniDocs** | Developed a document management system for generating, organizing, and accessing digital documents. Built a REST API for document workflows and PDF generation. | Java · Spring Boot · MySQL · GitHub|
+| **VASO** |Built a backend system for managing multimedia content (images and audio) for visual novels, including secure authentication and structured data modeling.| Python · Django · JWT · MySQL|
+| **Almacén API** | Developed a basic inventory management system with full CRUD operations and a REST API for managing products. Implemented backend logic in PHP and integrated with a MySQL database. | PHP · MySQL |
 
 ---
 
